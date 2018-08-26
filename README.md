@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/hFKCRJ/bevr.png" alt="bevr" border="0"></a></p>
+<img src="https://media.discordapp.net/attachments/429288040620359691/483234991984345089/TDC.png" alt="bevr" border="0"></p>
 <br/>
 
 # TOP DOWN CITY SERVER-Official
@@ -19,7 +19,7 @@ Lukshya<br>
 Ice Flake<br>
 PunkNoodle<br>
 vito gta<br>
-Death Master<br>
+Savage Nep<br>
 =MA=vErTiGo<br>
 RuKriM<br>
 Lιση<br>
@@ -31,7 +31,7 @@ Athanatos<br>
 Zeus
 
 # Discord
-<a href="https://discord.gg/WVjRMdj">Join US</a>
+<a href="https://discord.ly/topdowncity">Join US</a>
 
 # Website
 <a href="https://tdcs.netlify.com/">www.tdcs-official.org</a>
